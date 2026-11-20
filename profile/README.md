@@ -2,7 +2,7 @@
 
 <img src="mark.svg" width="120" alt="Orbios" />
 
-# Orbios
+# Orbios OS
 
 **A living globe of the Earth**
 
